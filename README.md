@@ -8,6 +8,12 @@ Sur ce site vous trouverez mes differents projets de devellopement Web ainsi que
 
 Sur ce site vous trouverez mes differents projets de devellopement Web 
 
+### Formation
+
+Baccalauréat scientifique
+
+Developpeur Web et Web mobile (en cours)
+
 
 
 ### projet 1
