@@ -1,6 +1,6 @@
 ## bienvenu sur afiagen11
 
-Sur ce site vous trouverez mes differents projets de devellopement Web ainsi que les differentes competences que j'ai acquis au cours de mes differents projets 
+Sur ce site vous trouverez mes differents projets de devellopement Web ainsi que les differentes competences que j'ai acquis au cours de mes differents projet 
 
 
 
@@ -31,9 +31,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### langages informatique 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afiagen11/mon_cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+HTML5
+CSS3
+
 
 ### Contact
 
